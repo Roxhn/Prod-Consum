@@ -1,0 +1,12 @@
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\Prod_Consum\Prod_Consum\bin\Debug\Prod_Consum.exe.config
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\Prod_Consum\Prod_Consum\bin\Debug\Prod_Consum.exe
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\Prod_Consum\Prod_Consum\bin\Debug\Prod_Consum.pdb
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\Prod_Consum\Prod_Consum\obj\Debug\Prod_Consum.csprojResolveAssemblyReference.cache
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\Prod_Consum\Prod_Consum\obj\Debug\Prod_Consum.exe
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\Prod_Consum\Prod_Consum\obj\Debug\Prod_Consum.pdb
+C:\Users\OKT-Developer\Desktop\Prod_Consum\Prod_Consum\bin\Debug\Prod_Consum.exe.config
+C:\Users\OKT-Developer\Desktop\Prod_Consum\Prod_Consum\obj\Debug\Prod_Consum.exe
+C:\Users\OKT-Developer\Desktop\Prod_Consum\Prod_Consum\obj\Debug\Prod_Consum.pdb
+C:\Users\OKT-Developer\Desktop\Prod_Consum\Prod_Consum\bin\Debug\Prod_Consum.exe
+C:\Users\OKT-Developer\Desktop\Prod_Consum\Prod_Consum\bin\Debug\Prod_Consum.pdb
+C:\Users\OKT-Developer\Desktop\Prod_Consum\Prod_Consum\obj\Debug\Prod_Consum.csprojResolveAssemblyReference.cache
